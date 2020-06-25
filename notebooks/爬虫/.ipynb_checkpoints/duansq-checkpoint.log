@@ -1,0 +1,17 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, minimum-scale=1.0">
+    <title>四川农业大学信息提示页</title>
+    <script src="/SPCP/Web/Scripts/jquery-2.1.4.min.js"></script>
+    <link href="/SPCP/Web/Scripts/layer/theme/default/layer.css" rel="stylesheet" />
+    <script src="/SPCP/Web/Scripts/layer/layer.js"></script>
+</head>
+<body>
+    <script type="text/javascript">layer.alert('当前采集日期已登记！',{icon: 0,closeBtn: 0}, function(){;window.location.href = '/SPCP/Web/Account/ChooseSys'})</script>
+</body>
+</html> 
